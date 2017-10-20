@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+	background-color: #252830;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.nav {
+	position: fixed !important;
+	background-color: white;
+	width: 100%;
+	z-index: 1;
+}
+
+.dropdown.show {
+	position: fixed;
+}
+
+.headline {
+	color: white;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-spacing {
+    padding-left: 10px;
+}

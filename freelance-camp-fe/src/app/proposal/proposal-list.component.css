@@ -1,0 +1,12 @@
+.proposal-link:hover {
+	text-decoration: none;
+}
+
+.list-group-item {
+	z-index: 0;
+	padding-bottom: -50px
+}
+
+.list-group-item-heading {
+	color: black;
+}
